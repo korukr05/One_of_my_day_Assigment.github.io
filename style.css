@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+
+h1 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    border-collapse:collapse;
+    margin: auto;
+    width: 750px;
+    height: 250px;
+  }
+
+  td {
+    border:solid 2px #000000;
+    background-color:#88aaa3;
+    color:rgb(255, 255, 255);
+    padding: 20px;
+  }
+  .bob {
+      background-color: #AAAAFF;
+  }
+
